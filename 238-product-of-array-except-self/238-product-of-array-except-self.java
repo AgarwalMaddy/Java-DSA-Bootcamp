@@ -6,16 +6,12 @@ class Solution {
         for(int i = 1 ; i < n ; i++){
             prefixArray[i] = prefixArray[i-1] * nums[i-1];
         }
-        
-        int[] sufixArray = new int[n];
-        sufixArray[n-1] = 1; // Last element doesnot have any suffix.
-        for(int i = n-2 ; i >= 0 ; i--){
-            sufixArray[i] = sufixArray[i+1] * nums[i+1]; 
-        }
+        int sufixElement = 1;
         
         int[] answer = new int[n];
-        for(int i = 0 ; i < n ; i++){
-            answer[i] = prefixArray[i] * sufixArray[i];
+        for(int i = n - 1 ; i >= 0 ; i--){
+            answer[i] = prefixArray[i] * sufixElement;
+            sufixElement *= nums[i];
         }
         
         return answer;
