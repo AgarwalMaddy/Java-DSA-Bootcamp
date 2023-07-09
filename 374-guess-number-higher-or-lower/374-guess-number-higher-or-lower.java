@@ -7,6 +7,8 @@
  * int guess(int num);
  */
 
+/*  Pre Defined API refers to a Pre Defined function that return -1 , 0 , 1 on the basis f your input. */
+
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
         int start = 1;
