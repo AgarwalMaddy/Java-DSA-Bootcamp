@@ -1,3 +1,5 @@
+/* Approach 1: Using Binary Search. Used a for loop to iterate in the array and use it as one of the two elements to find the sum. Then inside for loop used binary search to find if the element we are at fits the requirement to complete the sum or not.*/ 
+
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] result = new int[2];
