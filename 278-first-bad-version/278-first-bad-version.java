@@ -1,6 +1,7 @@
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
 
+/* If the function call is true it means the product is defective which implies either it is the first defective product or any product before it is defective. Therefore we store the first defective encountered defective and move left to check for more else if the function return false implies that the product is working and that the defective product either lies to right or does not exits. */
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int start = 1;
