@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment 1/Assignment 1.iml" filepath="$PROJECT_DIR$/Assignment 1/Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 2/Assignment 2.iml" filepath="$PROJECT_DIR$/Assignment 2/Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-DSA-with-Kunal.iml" filepath="$PROJECT_DIR$/.idea/Java-DSA-with-Kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs L1/OOPs L1.iml" filepath="$PROJECT_DIR$/OOPs L1/OOPs L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 10 Switch Statements/Video 10 Switch Statements.iml" filepath="$PROJECT_DIR$/Video 10 Switch Statements/Video 10 Switch Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 11 Functions and Methods/Video 11 Functions and Methods.iml" filepath="$PROJECT_DIR$/Video 11 Functions and Methods/Video 11 Functions and Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 12 Arrays and Array List/Video 12 Arrays and Array List.iml" filepath="$PROJECT_DIR$/Video 12 Arrays and Array List/Video 12 Arrays and Array List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 13 Linear Search Algorithm - Theory - Code - Questions/Video 13 Linear Search Algorithm - Theory - Code - Questions.iml" filepath="$PROJECT_DIR$/Video 13 Linear Search Algorithm - Theory - Code - Questions/Video 13 Linear Search Algorithm - Theory - Code - Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 14 Binary Search Algorithm Theory - Code/Video 14 Binary Search Algorithm Theory - Code.iml" filepath="$PROJECT_DIR$/Video 14 Binary Search Algorithm Theory - Code/Video 14 Binary Search Algorithm Theory - Code.iml" />
+    </modules>
+  </component>
+</project>
