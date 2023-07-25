@@ -30,11 +30,4 @@ public class Intersection_of_Array {
 
         return result;
     }
-
-    public static int[] optimized(int[] nums1, int[] nums2){
-        HashSet<Integer> set = new HashSet<>();
-        for(int i = 0 ; i < set.size(); i++){
-            result[i] = set(i);
-        }
-    }
 }
