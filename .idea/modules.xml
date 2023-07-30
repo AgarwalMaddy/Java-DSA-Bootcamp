@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-DSA-with-Kunal.iml" filepath="$PROJECT_DIR$/.idea/Java-DSA-with-Kunal.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPs L1/OOPs L1.iml" filepath="$PROJECT_DIR$/OOPs L1/OOPs L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video 10 Switch Statements/Video 10 Switch Statements.iml" filepath="$PROJECT_DIR$/Video 10 Switch Statements/Video 10 Switch Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video 11 Functions and Methods/Video 11 Functions and Methods.iml" filepath="$PROJECT_DIR$/Video 11 Functions and Methods/Video 11 Functions and Methods.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Video 17 Bubble Sort/Video 17 Bubble Sort.iml" filepath="$PROJECT_DIR$/Video 17 Bubble Sort/Video 17 Bubble Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video 18 Selection Sort/Video 18 Selection Sort.iml" filepath="$PROJECT_DIR$/Video 18 Selection Sort/Video 18 Selection Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video 19 Insertion Sort/Video 19 Insertion Sort.iml" filepath="$PROJECT_DIR$/Video 19 Insertion Sort/Video 19 Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 20 Cycle Sort/Video 20 Cycle Sort.iml" filepath="$PROJECT_DIR$/Video 20 Cycle Sort/Video 20 Cycle Sort.iml" />
     </modules>
   </component>
 </project>
