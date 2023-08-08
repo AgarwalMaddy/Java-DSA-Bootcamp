@@ -19,8 +19,9 @@ public class P1 {
     public static void cycleSort(int[] arr){
         int i = 0;
         while(i < arr.length) {
-            if (arr[i] != i + 1) {
-                swap(arr, i, arr[i]-1);
+            int actualIndex = arr[i] -1;
+            if (arr[i] != arr[actualIndex]) {
+                swap(arr, i , actualIndex);
             } else{
                 i++;
             }
