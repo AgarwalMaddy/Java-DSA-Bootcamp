@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Rank {
+public class RankTransform {
     public static int[] arrayRankTransform(int[] arr) {
         int[] result = new int[arr.length];
         for(int i = 0 ; i < arr.length ; i++){
