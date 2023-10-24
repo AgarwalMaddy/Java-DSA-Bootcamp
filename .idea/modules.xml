@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Accenture Practice/Accenture Practice.iml" filepath="$PROJECT_DIR$/Accenture Practice/Accenture Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 1/Assignment 1.iml" filepath="$PROJECT_DIR$/Assignment 1/Assignment 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment 2/Assignment 2.iml" filepath="$PROJECT_DIR$/Assignment 2/Assignment 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
@@ -24,6 +25,11 @@
       <module fileurl="file://$PROJECT_DIR$/Video 19 Insertion Sort/Video 19 Insertion Sort.iml" filepath="$PROJECT_DIR$/Video 19 Insertion Sort/Video 19 Insertion Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video 20 Cycle Sort/Video 20 Cycle Sort.iml" filepath="$PROJECT_DIR$/Video 20 Cycle Sort/Video 20 Cycle Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Video 21 Strings and String Builders/Video 21 Strings and String Builders.iml" filepath="$PROJECT_DIR$/Video 21 Strings and String Builders/Video 21 Strings and String Builders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 22 Solve Any Pattern Questions with this Trick/Video 22 Solve Any Pattern Questions with this Trick.iml" filepath="$PROJECT_DIR$/Video 22 Solve Any Pattern Questions with this Trick/Video 22 Solve Any Pattern Questions with this Trick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 24/Video 24.iml" filepath="$PROJECT_DIR$/Video 24/Video 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 25/Video 25.iml" filepath="$PROJECT_DIR$/Video 25/Video 25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 25 Bitwise/Video 25 Bitwise.iml" filepath="$PROJECT_DIR$/Video 25 Bitwise/Video 25 Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video 26/Video 26.iml" filepath="$PROJECT_DIR$/Video 26/Video 26.iml" />
     </modules>
   </component>
 </project>
